@@ -3,7 +3,7 @@ package co.edu.utp.misiontic2022.c2.cdiaz;
 //import java.io.BufferedReader;
 //import java.io.IOException;
 //import java.io.InputStreamReader;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 //import javax.swing.JOptionPane;
 
